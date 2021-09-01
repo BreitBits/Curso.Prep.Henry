@@ -27,11 +27,11 @@ const nuevoModulo = 21 % 5 === 1;
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
 
-function devolverString(nombre) {
+function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
 
-  return (nombre);
+  return str;
 }
 
 function suma(x, y) {
