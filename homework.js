@@ -1,4 +1,5 @@
-// En estas primeras 6 preguntas, reemplaza `null` por la respuesta
+//FINISHED HOMEWORK // 
+//En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = "Henry";
