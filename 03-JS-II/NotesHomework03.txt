@@ -1,0 +1,32 @@
+
+HOMEWORK/03
+
+*for
+(Explicado para niños de 12 años)
+
+El for sirve para controlar las instrucciones de un programa, para tarea es repetir una tarea hasta el límite en que se quiera detener.
+
+Por ejemplo, cuando a una canción de youtube le activas el loop, para que se repita una y otra vez, cuando termina, vuelve y empieza; con la ventaja de que podríaS darle la instrucción que lo haga las veces que desees(20).  
+
+Otra ventaja adicional es que puedes darle la instrucción de que cada vez se repita, aumente o dismunuya, en la próxima reproducción 1 barrita del volumen.
+
+variable = video de youtube
+condición = reproducirla 20 veces
+incremento volumen = video de youtube ++
+
+
+&& 
+Se refiere al AND 
+Si ambas  expresiones ( izquierda y la derecha)   son verdaderas, retorna True. De lo contrario, retorna false. 
+
+
+||
+Se refiere al OR
+Si alguna de las expresiones a ambos lados del operador es verdadera, retorna true. Si ambas son falsas, returna false.
+
+
+!
+Se refiere al NOT 
+Es una negación. 
+Retorna el valor booleano opuesto al operando.
+Retorna true si operando es false y true si es false.
