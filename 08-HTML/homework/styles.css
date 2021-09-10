@@ -1,0 +1,46 @@
+
+        h1 {
+            color:white;
+        }
+
+        img {
+            width: 400px;
+            display:block;
+            margin:auto
+        }
+
+        #thirdDiv {
+            background-color: black;
+            width:600px; 
+            height:600px;
+            padding:50px;
+            border:10px rgb(255, 238, 0);
+            border-radius: 30px;
+            margin-left :auto;
+            margin-right:auto;
+            position: center;
+
+        }
+
+        .divClass{
+          
+            border:80px;
+            color: white;
+            background-color: black;
+            width: 50%;;
+        }
+
+        #spanId {
+            font-size: 18px;
+            margin:50px;
+            position: center;
+            color: white;
+        }
+
+        body{
+            background-image: url(https://cdn.theorg.com/d3119e0e-8202-4034-85ce-d0356382515e_thumb.jpg);
+            position: center;
+        }
+        
+
+
