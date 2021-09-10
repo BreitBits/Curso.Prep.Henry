@@ -28,6 +28,7 @@
             color: white;
             background-color: black;
             width: 50%;;
+            border-radius: 30px;
         }
 
         #spanId {
