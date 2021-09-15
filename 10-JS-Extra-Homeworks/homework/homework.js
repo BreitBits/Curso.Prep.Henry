@@ -111,14 +111,14 @@ function deleteAbc(cadena){
   //y devuelva la versión modificada o la misma cadena, en caso de contener dichas letras.
   //Escribe tu código aquí
   
-  var str1= "";
+  var strUno= "";
   for (let i=0; i < cadena.length; i++){
     if(cadena[i] !== "a" && cadena[i]!== "b" && cadena[i]!=="c" ){
-      str1+=cadena[i];
+      strUno+=cadena[i];
 
     }
   }
-  return str1;
+  return strUno;
 }
 
 
